@@ -1,6 +1,4 @@
-/**
- * _10_SwitchStatement
- */
+
 public class _10_SwitchStatement {
 
     public static void main(String[] args) {
