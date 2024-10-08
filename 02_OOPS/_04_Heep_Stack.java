@@ -25,5 +25,6 @@ public class _04_Heep_Stack {
 		
 		System.out.println(obj.num);
 		System.out.println(obj1.num);
+		System.out.println(data);
 	}
 }
