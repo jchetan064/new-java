@@ -3,7 +3,9 @@
 public class _03_jaggedArray {
     public static void main(String[] args) {
          
-        int nums[][] = new int[3][];    //jagged array
+        // Jagged Array -> A jagged array (also known as a ragged array) is an array of arrays where each "inner" array can have a different length. Unlike a rectangular array (like a matrix) where all rows and columns have the same number of elements, in a jagged array, the sub-arrays (or rows) can have varying numbers of elements.
+
+        int nums[][] = new int[3][];   
 
         nums[1] = new int[4];
         nums[2] = new int[5];
